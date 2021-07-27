@@ -1,0 +1,90 @@
+* {
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+body {
+  background-color: #333;
+}
+
+.lead {
+  font-size: 1.5rem !important;
+}
+
+.sub-lead {
+  font-size: 1.25rem !important;
+}
+
+.d-inline-block {
+  filter: invert(100%);
+}
+
+.jumbotron {
+  margin-top: 30px;
+  text-align: center;
+  padding: 2rem 2rem !important;
+}
+
+.btn-danger {
+  font-size: 1.5rem !important;
+}
+
+.btn-success {
+  font-size: 1.5rem;
+  width: 100%;
+}
+
+.card-text {
+  margin-top: 1.1rem !important;
+  margin-bottom: 1.1rem !important;
+  padding: 0 1.1rem 0 1.1rem;
+  font-size: 1.25rem !important;
+}
+
+.card-date {
+  font-size: 1.1rem;
+}
+
+.card-header {
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
+  background-color: #fff;
+  border-bottom: 2px solid rgba(0,0,0,.125)
+}
+
+.card-date {
+  text-align: end;
+  margin-top: auto;
+  margin-bottom: 3px !important;
+  font-size: .85rem !important;
+}
+
+.modal-footer {
+  justify-content: space-between;
+}
+
+.form-control {
+  width: 81%;
+}
+
+h5 {
+  font-size: 2rem !important;
+}
+
+.tothetop {
+  display: none;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  cursor: pointer;
+}
+
+.btn_top {
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  border: 3px dashed #fff;
+}
+
+button:focus {
+  outline: none;
+}
